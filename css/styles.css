@@ -27,7 +27,7 @@ body {
 }
 
 .img-qrcode {
-    border-radius: 1rem;
+    border-radius: 0.5rem;
     height: auto;
     max-width: 100%;
 }
