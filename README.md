@@ -7,7 +7,7 @@
 
 ### Screenshot
 
-![](design/Captura%20de%20tela%202025-04-10%20131718.png)
+![](design/Captura%20de%20tela%202025-04-12%20212442.png)
 
 ### Built with
 
